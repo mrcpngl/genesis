@@ -1,0 +1,16 @@
+C:\Users\WAT\source\repos\ANewStart\ANewStart\bin\Debug\net5.0\ANewStart.exe
+C:\Users\WAT\source\repos\ANewStart\ANewStart\bin\Debug\net5.0\ANewStart.deps.json
+C:\Users\WAT\source\repos\ANewStart\ANewStart\bin\Debug\net5.0\ANewStart.runtimeconfig.json
+C:\Users\WAT\source\repos\ANewStart\ANewStart\bin\Debug\net5.0\ANewStart.runtimeconfig.dev.json
+C:\Users\WAT\source\repos\ANewStart\ANewStart\bin\Debug\net5.0\ANewStart.dll
+C:\Users\WAT\source\repos\ANewStart\ANewStart\bin\Debug\net5.0\ref\ANewStart.dll
+C:\Users\WAT\source\repos\ANewStart\ANewStart\bin\Debug\net5.0\ANewStart.pdb
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.csprojAssemblyReference.cache
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.AssemblyInfoInputs.cache
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.AssemblyInfo.cs
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.csproj.CoreCompileInputs.cache
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.dll
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ref\ANewStart.dll
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.pdb
+C:\Users\WAT\source\repos\ANewStart\ANewStart\obj\Debug\net5.0\ANewStart.genruntimeconfig.cache
