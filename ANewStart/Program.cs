@@ -6,7 +6,7 @@ namespace ANewStart
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("DENEME");
         }
     }
 
